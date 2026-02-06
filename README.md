@@ -64,11 +64,20 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Actividad y Logros
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jrlinaresk&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Jorge" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jrlinaresk&layout=compact&theme=tokyonight" alt="Lenguajes de Jorge" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Jrlinaresk&theme=tokyonight&column=4&margin-w=15" alt="Mis Trofeos" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jrlinaresk&theme=tokyonight&hide_border=true" alt="Racha de Commits" />
+
+<br/>
+
+<img src="https://github-readme-stats-two-no-border.vercel.app/api/top-langs/?username=Jrlinaresk&layout=compact&theme=tokyonight" alt="Lenguajes" />
+
 </div>
 
 ---
