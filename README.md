@@ -64,19 +64,19 @@
 
 ---
 
-### 📊 Actividad y Métricas de Ingeniería
+### 📊 Actividad Histórica y Métricas de Ingeniería
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jrlinaresk&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Estadísticas Generales" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jrlinaresk&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" alt="Estadísticas Totales Históricas" />
+
+<br/>
+
+<img height="180em" src="https://streak-stats.demolab.com/?user=Jrlinaresk&theme=tokyonight&hide_border=true" alt="Racha de Commits" />
 
 <br/>
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jrlinaresk&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
-
-<br/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jrlinaresk&theme=tokyonight&hide_border=true" alt="Racha de trabajo" />
 
 </div>
 
