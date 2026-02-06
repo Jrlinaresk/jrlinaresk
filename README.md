@@ -64,40 +64,24 @@
 
 ---
 
+### 📊 Engineering Activity & Metrics
+
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/Jrlinaresk?label=Followers&style=for-the-badge" />
-<img src="https://img.shields.io/github/stars/Jrlinaresk?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=Total%20Stars" />
-<img src="https://komarev.com/ghpvc/?username=Jrlinaresk&style=for-the-badge&label=Profile%20Views" />
-
-<br/><br/>
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Jrlinaresk&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=21600" />
-<img height="175em" src="https://streak-stats.demolab.com/?user=Jrlinaresk&hide_border=true" />
-
+<img height="170" src="profile-summary-card-output/default/0-profile-details.svg" />
 <br/>
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jrlinaresk&layout=compact&hide_border=true&cache_seconds=21600" />
-<img height="175em" src="https://github-readme-activity-graph.vercel.app/graph?username=Jrlinaresk&hide_border=true" />
-
+<img height="170" src="profile-summary-card-output/default/1-repos-per-language.svg" />
+<img height="170" src="profile-summary-card-output/default/2-most-commit-language.svg" />
 <br/>
 
-<img height="175em" src="https://raw.githubusercontent.com/Jrlinaresk/Jrlinaresk/main/github-metrics.svg" />
-<img height="175em" src="https://raw.githubusercontent.com/Jrlinaresk/Jrlinaresk/main/github-metrics-highlights.svg" />
-
-<br/>
-
-<img height="175em" src="https://raw.githubusercontent.com/Jrlinaresk/Jrlinaresk/main/github-metrics-repos.svg" />
-<img height="175em" src="https://raw.githubusercontent.com/Jrlinaresk/Jrlinaresk/main/github-metrics-issues-prs.svg" />
-
-<br/>
-
-<img height="175em" src="https://raw.githubusercontent.com/Jrlinaresk/Jrlinaresk/main/github-metrics-languages.svg" />
-<img height="175em" src="https://raw.githubusercontent.com/Jrlinaresk/Jrlinaresk/main/github-metrics-community.svg" />
+<img height="170" src="profile-summary-card-output/default/3-stats.svg" />
+<img height="170" src="profile-summary-card-output/default/4-productive-time.svg" />
 
 </div>
 
 ---
+
 
 ### 💼 Professional Journey
 
