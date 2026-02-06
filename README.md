@@ -68,27 +68,16 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jrlinaresk&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" alt="Estadísticas Totales Históricas" />
-
-<br/>
-
-<img height="180em" src="https://streak-stats.demolab.com/?user=Jrlinaresk&theme=tokyonight&hide_border=true" alt="Racha de Commits" />
-
-<br/>
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jrlinaresk&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+| | |
+| :---: | :---: |
+| **Estadísticas Totales (Lifetime)** <br/> <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jrlinaresk&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" height="180em" /> | **Racha de Trabajo (Streak)** <br/> <img src="https://streak-stats.demolab.com/?user=Jrlinaresk&theme=tokyonight&hide_border=true" height="180em" /> |
+| **Lenguajes más usados** <br/> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jrlinaresk&layout=compact&theme=tokyonight&hide_border=true" height="180em" /> | **Hitos y Trofeos** <br/> <img src="https://github-profile-trophy.vercel.app/?username=Jrlinaresk&theme=tokyonight&column=2&margin-w=15&no-bg=true&rank=SSS,SS,S,A" height="180em" /> |
+| **Horario de Productividad** <br/> <img src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=Jrlinaresk&layout=compact&theme=tokyonight&hide_border=true" height="180em" /> | **Actividad Reciente** <br/> <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jrlinaresk&repo=Jrlinaresk&theme=tokyonight&show_owner=true" height="180em" /> |
 
 </div>
 
 ---
 
-### 🏆 Reconocimientos de Código
-<div align="center">
-  <img src="https://img.shields.io/badge/Seniority-10%2B_Years_Experience-blue?style=flat-square&logo=expertsexchange&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open_Source-Contributor-brightgreen?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Architect-Clean_Architecture-orange?style=flat-square&logo=blueprint" />
-</div>
----
 
 ### 💼 Professional Journey
 
