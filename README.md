@@ -84,14 +84,14 @@
 
 ### 💼 Professional Journey
 
-| Years | Title | Focus | Company / Location |
-| --- | --- | --- | --- |
-| **Nov 2025 — Present** | 🚀 **Senior Android Dev** | Android • Product Delivery | **MonkeyBox** · Remote (Albacete, Spain) |
-| **2024** | 🍬 **Senior Android Dev** | Android • UX | **GumHunter** · Miami, USA |
-| **2023 — 2025** | 📱 **Senior Android Dev** | Android • Architecture | **Soyivm** · Ecuador |
-| **2022 — 2023** | 🛠 **Backend & PO** | NestJS • APIs • Ownership | **Nxlabs.io** · Mexico |
-| **2019 — 2022** | 🤖 **Android Dev** | Android • Delivery | **IDOOGROUP** · Mexico |
-| **2014 — Present** | 🌍 **Freelance** | Mobile • Backend • Web | **Self-Employed** · Global |
+> Built for **shipping**: mobile-first execution, clean architecture, and real-world integrations.
+
+- **🚀 MonkeyBox** — *Senior Android Developer* · **Nov 2025 — Present** · Remote (Albacete, Spain)  
+- **🍬 GumHunter** — *Senior Android Developer* · **2024** · Miami, USA  
+- **📱 Soyivm** — *Senior Android Developer* · **2023 — 2025** · Ecuador  
+- **🛠 Nxlabs.io** — *Backend Developer & Product Owner* · **2022 — 2023** · Mexico  
+- **🤖 IDOOGROUP** — *Android Developer* · **2019 — 2022** · Mexico  
+- **🌍 Freelance** — *Software Developer* · **2014 — Present** · Global
 
 ---
 
