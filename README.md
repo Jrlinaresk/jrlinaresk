@@ -1,15 +1,3 @@
-```javascript
-const jorge = {
-    role: "Senior Software Developer",
-    exp: "10+ Years",
-    location: "Curitiba, Brazil",
-    code: ["Java", "Dart", "TypeScript"],
-    architecture: ["Clean", "MVVM", "Microservices"],
-    passion: "Shipping fast, reliable products."
-};
-
-console.log("Ready to build something great?");
-
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E91F7&center=true&vCenter=true&width=600&lines=Jorge+R.+Linares;Software+Developer+•+10%2B+Years;Mobile+%7C+Backend+%7C+Web;Building+Scalable+Solutions" alt="Typing SVG" />
