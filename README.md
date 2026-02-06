@@ -84,9 +84,9 @@
 
 ### 🏆 Reconocimientos de Código
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Jrlinaresk&theme=tokyonight&column=4&margin-w=15&no-bg=true" alt="Trofeos de Jorge" />
-
+  <img src="https://img.shields.io/badge/Seniority-10%2B_Years_Experience-blue?style=flat-square&logo=expertsexchange&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-brightgreen?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Architect-Clean_Architecture-orange?style=flat-square&logo=blueprint" />
 </div>
 ---
 
