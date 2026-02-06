@@ -64,15 +64,30 @@
 
 ---
 
-### 📊 Métricas de Desarrollo
+### 📊 Actividad y Métricas de Ingeniería
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jrlinaresk&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes de Jorge" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jrlinaresk&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Estadísticas Generales" />
 
-<img src="https://img.shields.io/badge/Main_Stack-Android%20%7C%20Flutter%20%7C%20NestJS-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/Experience-10+%20Years-success?style=for-the-badge">
+<br/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jrlinaresk&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+
+<br/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jrlinaresk&theme=tokyonight&hide_border=true" alt="Racha de trabajo" />
 
 </div>
 
+---
+
+### 🏆 Reconocimientos de Código
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Jrlinaresk&theme=tokyonight&column=4&margin-w=15&no-bg=true" alt="Trofeos de Jorge" />
+
+</div>
 ---
 
 ### 💼 Professional Journey
