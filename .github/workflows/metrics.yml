@@ -1,34 +1,23 @@
-name: Profile Cards
+name: GitHub-Profile-Summary-Cards
 
 on:
   schedule:
-    - cron: "0 6 * * *"   # todos los días 06:00 UTC
+    - cron: "0 6 * * *"
   workflow_dispatch:
-  push:
-    branches: ["main"]
-
-permissions:
-  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      # Genera un set de cards (stats, langs, repos, commits, etc.)
-      - name: Generate summary cards
-        uses: vn7n24fzkq/github-profile-summary-cards@release
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
         with:
-          USERNAME: Jrlinaresk
-          THEME: default
-
-      # Commit automático solo si hubo cambios (si no hay nueva info, no cambia nada)
-      - name: Commit & Push
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A
-          git diff --cached --quiet || git commit -m "chore: update profile cards"
-          git push
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          UTC_OFFSET: 0
+          AUTO_PUSH: true
