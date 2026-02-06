@@ -64,55 +64,40 @@
 
 ---
 
-### 📊 Engineering Activity & Metrics Dashboard
-
 <div align="center">
 
-<!-- Badges -->
-<img src="https://img.shields.io/github/followers/Jrlinaresk?label=Followers&style=for-the-badge" alt="Followers" />
-<img src="https://img.shields.io/github/stars/Jrlinaresk?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=Total%20Stars" alt="Total Stars" />
-<img src="https://komarev.com/ghpvc/?username=Jrlinaresk&style=for-the-badge&label=Profile%20Views" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/Jrlinaresk?label=Followers&style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/Jrlinaresk?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=Total%20Stars" />
+<img src="https://komarev.com/ghpvc/?username=Jrlinaresk&style=for-the-badge&label=Profile%20Views" />
 
 <br/><br/>
 
-<!-- Row 1: General Stats + Streak -->
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Jrlinaresk&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="Overall Stats" />
-<img height="175em" src="https://streak-stats.demolab.com/?user=Jrlinaresk&hide_border=true" alt="Commit Streak" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Jrlinaresk&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=21600" />
+<img height="175em" src="https://streak-stats.demolab.com/?user=Jrlinaresk&hide_border=true" />
 
 <br/>
 
-<!-- Row 2: Top Languages + Contribution Calendar -->
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jrlinaresk&layout=compact&hide_border=true" alt="Top Languages" />
-<img height="175em" src="https://github-readme-activity-graph.vercel.app/graph?username=Jrlinaresk&hide_border=true" alt="Activity Graph" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jrlinaresk&layout=compact&hide_border=true&cache_seconds=21600" />
+<img height="175em" src="https://github-readme-activity-graph.vercel.app/graph?username=Jrlinaresk&hide_border=true" />
 
 <br/>
 
-<!-- Row 3: Metrics Overview + Highlights (Lowlighter Metrics) -->
-<img height="175em" src="https://github.com/Jrlinaresk/Jrlinaresk/blob/main/github-metrics.svg" alt="Metrics Overview" />
-<img height="175em" src="https://github.com/Jrlinaresk/Jrlinaresk/blob/main/github-metrics-highlights.svg" alt="Highlights" />
+<img height="175em" src="https://raw.githubusercontent.com/Jrlinaresk/Jrlinaresk/main/github-metrics.svg" />
+<img height="175em" src="https://raw.githubusercontent.com/Jrlinaresk/Jrlinaresk/main/github-metrics-highlights.svg" />
 
 <br/>
 
-<!-- Row 4: Repos (featured/topics/license/size) + Issues/PRs -->
-<img height="175em" src="https://github.com/Jrlinaresk/Jrlinaresk/blob/main/github-metrics-repos.svg" alt="Repos Details" />
-<img height="175em" src="https://github.com/Jrlinaresk/Jrlinaresk/blob/main/github-metrics-issues-prs.svg" alt="Issues & PRs" />
+<img height="175em" src="https://raw.githubusercontent.com/Jrlinaresk/Jrlinaresk/main/github-metrics-repos.svg" />
+<img height="175em" src="https://raw.githubusercontent.com/Jrlinaresk/Jrlinaresk/main/github-metrics-issues-prs.svg" />
 
 <br/>
 
-<!-- Row 5: Languages (detailed) + Community/Social -->
-<img height="175em" src="https://github.com/Jrlinaresk/Jrlinaresk/blob/main/github-metrics-languages.svg" alt="Languages Details" />
-<img height="175em" src="https://github.com/Jrlinaresk/Jrlinaresk/blob/main/github-metrics-community.svg" alt="Community & Social" />
-
-<br/>
-
-<!-- Row 6: WakaTime + Pinned spotlight -->
-<img height="175em" src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&hide_border=true&layout=compact" alt="WakaTime Stats" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/pin/?username=Jrlinaresk&repo=YOUR_BEST_REPO&hide_border=true" alt="Pinned Repo Spotlight" />
+<img height="175em" src="https://raw.githubusercontent.com/Jrlinaresk/Jrlinaresk/main/github-metrics-languages.svg" />
+<img height="175em" src="https://raw.githubusercontent.com/Jrlinaresk/Jrlinaresk/main/github-metrics-community.svg" />
 
 </div>
 
 ---
-
 
 ### 💼 Professional Journey
 
