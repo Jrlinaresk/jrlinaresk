@@ -87,16 +87,6 @@
 
 ---
 
-### 🏆 Featured Projects
-
-| **Project** | **Tech Stack** | **Description** |
-| :--- | :--- | :--- |
-| **[Project Name 1](LINK)** | `Flutter` `Firebase` | Breve descripción de alto impacto (e.g., Payment solution for X). |
-| **[Project Name 2](LINK)** | `NestJS` `GraphQL` | Descripción enfocada en backend/escala. |
-| **[Project Name 3](LINK)** | `Next.js` `Stripe` | Descripción enfocada en web/ventas. |
-
----
-
 ### 🗣️ Languages
 🇺🇸 **English** (B1) • 🇪🇸 **Spanish** (C2) • 🇧🇷 **Portuguese** (A2) • 🏴 **Catalan** (B1)
 
