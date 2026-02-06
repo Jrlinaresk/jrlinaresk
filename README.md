@@ -67,7 +67,7 @@
 ### 📊 GitHub Stats
 <div align="center">
 <a href="https://github.com/Jrlinaresk">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jrlinaresk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jrlinaresk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" />
   
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jrlinaresk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
