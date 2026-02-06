@@ -28,14 +28,6 @@
 > I build fast, reliable products — from **pixel-perfect mobile apps** to **scalable APIs**.  
 > Comfortable in **monoliths or microservices**, I focus on what wins for the product: Clean Architecture, maintainability, and delivery speed.
 
-<div align="center">
-
-| 📱 Mobile Focus | ☁️ Backend & Web | 🧠 Architecture |
-| :---: | :---: | :---: |
-| Android, Flutter, UX-Minded | NestJS, React, GraphQL | Clean Arch, MVVM, Microservices |
-
-</div>
-
 ---
 
 ### 🛠 Tech Stack
