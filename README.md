@@ -64,19 +64,12 @@
 
 ---
 
-### 📊 Actividad y Logros
-
+### 📊 Métricas de Desarrollo
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Jrlinaresk&theme=tokyonight&column=4&margin-w=15" alt="Mis Trofeos" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jrlinaresk&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes de Jorge" />
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jrlinaresk&theme=tokyonight&hide_border=true" alt="Racha de Commits" />
-
-<br/>
-
-<img src="https://github-readme-stats-two-no-border.vercel.app/api/top-langs/?username=Jrlinaresk&layout=compact&theme=tokyonight" alt="Lenguajes" />
+<img src="https://img.shields.io/badge/Main_Stack-Android%20%7C%20Flutter%20%7C%20NestJS-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/Experience-10+%20Years-success?style=for-the-badge">
 
 </div>
 
