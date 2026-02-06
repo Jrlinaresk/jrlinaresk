@@ -85,16 +85,23 @@
 
 ### 💼 Professional Journey
 
-| Period | Role | Company | Location |
-| :--- | :--- | :--- | :--- |
-| **Nov 2025 — Present** | 🚀 Senior Android Dev | **MonkeyBox** | Albacete, Spain (Remote) |
-| **2024** | 🍬 Senior Android Dev | **GumHunter** | Miami, USA |
-| **2023 — 2025** | 📱 Senior Android Dev | **Soyivm** | Ecuador |
-| **2022 — 2023** | 🛠 Backend & PO | **Nxlabs.io** | Mexico |
-| **2019 — 2022** | 🤖 Android Dev | **IDOOGROUP** | Mexico |
-| **2014 — Present** | 🌍 Freelance | **Self-Employed** | Global |
+**2025 — Present**  
+🚀 **Senior Android Developer** · **MonkeyBox** · *Remote (Albacete, Spain)*
 
----
+**2024**  
+🍬 **Senior Android Developer** · **GumHunter** · *Miami, USA*
+
+**2023 — 2025**  
+📱 **Senior Android Developer** · **Soyivm** · *Ecuador*
+
+**2022 — 2023**  
+🛠 **Backend Developer & Product Owner** · **Nxlabs.io** · *Mexico*
+
+**2019 — 2022**  
+🤖 **Android Developer** · **IDOOGROUP** · *Mexico*
+
+**2014 — Present**  
+🌍 **Freelance Software Developer** · *Global*
 
 ### 🗣️ Languages
 🇺🇸 **English** (B1) • 🇪🇸 **Spanish** (C2) • 🇧🇷 **Portuguese** (A2) • 🏴 **Catalan** (B1)
